@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b14a6a3-6646-482f-a91d-ac56ab4e167b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lhcizqw0y4dyvsa8sYZWPYJkl8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_hello.test_initialization2">
+    <configuration name="pytest for test_hello.test_conftest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pc_pytest_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hello.test_conftest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_hello.test_initialization1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pc_pytest_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hello.test_initialization1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_hello.test_initialization2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pc_pytest_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hello.test_initialization2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_hello.test_remove_punts" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pc_pytest_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hello.test_remove_punts&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_hello.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pc_pytest_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_hello.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_hello.test_initialization2" />
+        <item itemvalue="Python tests.pytest in test_hello.py" />
+        <item itemvalue="Python tests.pytest for test_hello.test_conftest" />
+        <item itemvalue="Python tests.pytest for test_hello.test_remove_punts" />
+        <item itemvalue="Python tests.pytest for test_hello.test_initialization1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b14a6a3-6646-482f-a91d-ac56ab4e167b" name="Default Changelist" comment="" />
+      <created>1608052894904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608052894904</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="139" key="#xdebugger.evaluate" timestamp="1608060096778">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.822@0.23.1440.822" timestamp="1608060096778" />
+    <state width="1419" height="255" key="GridCell.Tab.0.bottom" timestamp="1608066941346">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1440" height="299" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608057850996" />
+    <state width="1419" height="234" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1608056944506" />
+    <state width="1419" height="255" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1608066941346" />
+    <state width="1419" height="255" key="GridCell.Tab.0.center" timestamp="1608066941345">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1440" height="299" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608057850995" />
+    <state width="1419" height="234" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1608056944505" />
+    <state width="1419" height="255" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1608066941345" />
+    <state width="1419" height="255" key="GridCell.Tab.0.left" timestamp="1608066941345">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1440" height="299" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608057850995" />
+    <state width="1419" height="234" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1608056944505" />
+    <state width="1419" height="255" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1608066941345" />
+    <state width="1419" height="255" key="GridCell.Tab.0.right" timestamp="1608066941346">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1440" height="299" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608057850996" />
+    <state width="1419" height="234" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1608056944506" />
+    <state width="1419" height="255" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1608066941346" />
+    <state width="1419" height="259" key="GridCell.Tab.1.bottom" timestamp="1608060119926">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="259" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1608060119926" />
+    <state width="1419" height="259" key="GridCell.Tab.1.center" timestamp="1608060119926">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="259" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1608060119926" />
+    <state width="1419" height="259" key="GridCell.Tab.1.left" timestamp="1608060119925">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="259" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1608060119925" />
+    <state width="1419" height="259" key="GridCell.Tab.1.right" timestamp="1608060119926">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="259" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1608060119926" />
+    <state x="229" y="67" key="SettingsEditor" timestamp="1608053863433">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="229" y="67" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1608053863433" />
+    <state x="385" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1608058887045">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="385" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1608058887045" />
+  </component>
+</project>
